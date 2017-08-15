@@ -1,0 +1,24 @@
+{
+    "bridge": {
+        "name": "Homebridge",
+        "username": "CC:87:A6:6A:A8:3F",
+        "port": 51826,
+        "pin": "031-45-154"
+    },
+
+	"description": "HOMBRIDGE CONFIG FOR HIFI2",
+
+	"accessories": [],
+	"platforms": [
+        {
+          "platform": "HIFI2",
+          "name": "HIFI 2",
+          "devices": [{
+              "name": "Dantin HIFI",
+              "host": "192.168.0.24",
+              "port": "23",
+              "inputs" : ["Piano","Airplay Audio","Cable 1","Cable 2","Cable 3","Cable DVR","Apple TV","Family Room"],
+              "outputs" : ["Outside","Master","Living Room","Kitchen","Balcony","Gus's Room","Reece's Room","Girls Room", "", "", "", "", "", "", "", ""]
+          }]
+      }]
+}

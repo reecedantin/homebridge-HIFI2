@@ -1,0 +1,33 @@
+{
+  "name": "homebridge-HIFI2",
+  "version": "0.0.1",
+  "description": "HIFI2 plugin for Homebridge: https://github.com/nfarina/homebridge",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": {
+    "name": "Reece Dantin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/reecedantin/homebridge-HIFI2.git"
+  },
+  "dependencies": {},
+  "gitHead": "26d456603475e28a0f1fcfb2b876f9867bcbb194",
+  "readme": "#homebridge-HIFI2\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/reecedantin/homebridge-HIFI2/issues"
+  },
+  "homepage": "https://github.com/reecedantin/homebridge-HIFI2#readme",
+  "_id": "homebridge-HIFI2@0.0.1",
+  "_shasum": "ae876fe3a6b9a22f4f06850cca73de8355243bc4",
+  "_from": "../../Users/reecedantin/Desktop/node_modules/homebridge-HIFI2",
+  "_resolved": "file:../../Users/reecedantin/Desktop/node_modules/homebridge-HIFI2",
+  "scripts": {}
+}
